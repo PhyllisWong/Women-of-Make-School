@@ -1,4 +1,5 @@
-# Mission Statement for Make School WOMS (Women of Make School)
+# Mission Statement for Make School WOMS
+####(Women of Make School)
 
 ### Sept 18 - Monday Lunch
 In attendance: Fiona, Laurel, Alirie, Phyllis, Sky, TJ
@@ -15,7 +16,7 @@ In attendance: Fiona, Laurel, Alirie, Phyllis, Sky, TJ
 - consider make school as a products and make sure it's for women
 - host events / workshops
 - at least 1 woman on the student council
-- Make products for Women by Women 
+- Make products for Women by Women
 
 ## product ideas
 - make school as a product
