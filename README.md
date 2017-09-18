@@ -1,5 +1,5 @@
 # Mission Statement for WOMS
-###(Women of Make School)
+(Women of Make School)
 
 ### Sept 18 - Monday Lunch
 In attendance: Fiona, Laurel, Alirie, Phyllis, Sky, TJ
